@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**alu0100699968/alu0100699968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estudiando el Máster de Profesorado en la ULL
+- ✏️ Y trabajando como diseñador gráfico
+- 🤔 Busco ayuda para no morir compaginando
+- 💬 Pregúntame sobre nada, no sé nada
+- 📫 Cómo contactarme: pon un issue
+- 🦖 Mi espíritu animal: el Dino de HiperDino  <img src="img/dino.png" width="45px">
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alu0100699968 stats](https://github-readme-stats.vercel.app/api?username=alu0100699968&show_icons=true&locale=en)
+
+![srodmar stats](https://github-readme-stats.vercel.app/api?username=srodmar&show_icons=true&locale=en)
