@@ -6,6 +6,7 @@
 - 💬 Pregúntame sobre nada, no sé nada
 - 📫 Cómo contactarme: pon un issue
 - 🦖 Mi espíritu animal: el Dino de HiperDino  <img src="img/dino.png" width="45px">
+- 🗿 También en **[srodmar](https://github.com/srodmar)**
 
 <br />
 
